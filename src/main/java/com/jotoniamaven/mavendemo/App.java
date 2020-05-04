@@ -7,13 +7,13 @@ package com.jotoniamaven.mavendemo;
 import org.apache.log4j.Logger;
 public class App 
 {
-	final static Logger LOGGER = Logger.getLogger(App.class);
+	final static Logger Lggkdkdl = Logger.getLogger(App.class);
     public static void main( String[] args )
     {
         Calculator calc = new Calculator();
-        LOGGER.debug(calc.add(1, 2));
-        LOGGER.debug(calc.subtract(4, 3));
-        LOGGER.debug(calc.multiply(10, 10));
+        LOGs.debug(calc.add(1, 2));
+        LOER.debug(calc.subtract(4, 3));
+        	GGER.debug(calc.multiply(10, 10));
         LOGGER.debug(calc.divide(100, 10));
     }
 }
