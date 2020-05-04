@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/vagrant/jenkinsproject/mavendemo/src/main/java/com/jotoniamaven/mavendemo/App.java">
+</file>
+<file name="/home/vagrant/jenkinsproject/mavendemo/src/main/java/com/jotoniamaven/mavendemo/Calculator.java">
+</file>
+<file name="/home/vagrant/jenkinsproject/mavendemo/src/main/java/com/jotoniamaven/mavendemo/package-info.java">
+</file>
+</checkstyle>
